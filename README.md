@@ -1,2 +1,2 @@
-# trump_bot
-Repo to hold a text generation based off Donald Trump tweets.
+# trump-bot
+Repo to hold a text generation neural network model based off Donald Trump tweets.
